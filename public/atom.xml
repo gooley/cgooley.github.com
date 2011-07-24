@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://cgooley.github.com/atom.xml" rel="self"/>
+  <link href="http://cgooley.github.com/"/>
+  <updated>2011-07-24T09:23:37-07:00</updated>
+  <id>http://cgooley.github.com/</id>
+  <author>
+    <name>Christopher Gooley</name>
+    
+      <email>c@thegooley.com</email>
+    
+  </author>
+
+  
+  <entry>
+    <title>Hello and Welcome</title>
+    <link href="http://cgooley.github.com/blog/2011/07/24/hello-and-welcome"/>
+    <updated>2011-07-24T09:19:00-07:00</updated>
+    <id>http://cgooley.github.com/blog/2011/07/24/hello-and-welcome</id>
+    <content type="html">&lt;h3&gt;Well, hello there&lt;/h3&gt;
+
+&lt;p&gt;This is just a quick test. nothing to see here.&lt;/p&gt;
+
+&lt;h3&gt;Here are a few things&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;two&lt;/li&gt;
+&lt;li&gt;green&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
+  
+</feed>
